@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\bin\Debug\net6.0\Task002FindSumNumbers.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\bin\Debug\net6.0\Task002FindSumNumbers.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\bin\Debug\net6.0\Task002FindSumNumbers.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\bin\Debug\net6.0\Task002FindSumNumbers.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\bin\Debug\net6.0\Task002FindSumNumbers.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\obj\Debug\net6.0\Task002FindSumNumbers.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\obj\Debug\net6.0\Task002FindSumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\obj\Debug\net6.0\Task002FindSumNumbers.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\obj\Debug\net6.0\Task002FindSumNumbers.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\obj\Debug\net6.0\Task002FindSumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\obj\Debug\net6.0\Task002FindSumNumbers.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\obj\Debug\net6.0\refint\Task002FindSumNumbers.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\obj\Debug\net6.0\Task002FindSumNumbers.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\obj\Debug\net6.0\Task002FindSumNumbers.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task002FindSumNumbers\obj\Debug\net6.0\ref\Task002FindSumNumbers.dll
