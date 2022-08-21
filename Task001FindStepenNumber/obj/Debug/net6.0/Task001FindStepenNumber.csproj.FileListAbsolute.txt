@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\bin\Debug\net6.0\Task001FindStepenNumber.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\bin\Debug\net6.0\Task001FindStepenNumber.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\bin\Debug\net6.0\Task001FindStepenNumber.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\bin\Debug\net6.0\Task001FindStepenNumber.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\bin\Debug\net6.0\Task001FindStepenNumber.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\obj\Debug\net6.0\Task001FindStepenNumber.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\obj\Debug\net6.0\Task001FindStepenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\obj\Debug\net6.0\Task001FindStepenNumber.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\obj\Debug\net6.0\Task001FindStepenNumber.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\obj\Debug\net6.0\Task001FindStepenNumber.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\obj\Debug\net6.0\Task001FindStepenNumber.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\obj\Debug\net6.0\refint\Task001FindStepenNumber.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\obj\Debug\net6.0\Task001FindStepenNumber.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\obj\Debug\net6.0\Task001FindStepenNumber.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task001FindStepenNumber\obj\Debug\net6.0\ref\Task001FindStepenNumber.dll
