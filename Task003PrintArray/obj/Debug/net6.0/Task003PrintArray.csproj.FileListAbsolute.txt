@@ -1,0 +1,15 @@
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\bin\Debug\net6.0\Task003PrintArray.exe
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\bin\Debug\net6.0\Task003PrintArray.deps.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\bin\Debug\net6.0\Task003PrintArray.runtimeconfig.json
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\bin\Debug\net6.0\Task003PrintArray.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\bin\Debug\net6.0\Task003PrintArray.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\obj\Debug\net6.0\Task003PrintArray.csproj.AssemblyReference.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\obj\Debug\net6.0\Task003PrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\obj\Debug\net6.0\Task003PrintArray.AssemblyInfoInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\obj\Debug\net6.0\Task003PrintArray.AssemblyInfo.cs
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\obj\Debug\net6.0\Task003PrintArray.csproj.CoreCompileInputs.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\obj\Debug\net6.0\Task003PrintArray.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\obj\Debug\net6.0\refint\Task003PrintArray.dll
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\obj\Debug\net6.0\Task003PrintArray.pdb
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\obj\Debug\net6.0\Task003PrintArray.genruntimeconfig.cache
+C:\Users\123ir\Desktop\Учёба\HomeWorks04\HomeWorks04\Task003PrintArray\obj\Debug\net6.0\ref\Task003PrintArray.dll
